@@ -6,7 +6,7 @@ authors:
     given-names: Likith
     affiliation: "Mercedes-Benz Research and Development India"
 year: 2026
-venue: "ECCV 2026 Workshop on Explainable and Safe Autonomous Driving (DriveX)"
+venue: "DriveX 2026: Foundation Models for Autonomous Driving (ECCV 2026 Workshop)"
 url: "https://github.com/likithp82/RaWM"
 preferred-citation:
   type: conference-paper
@@ -16,4 +16,4 @@ preferred-citation:
       given-names: Likith
   year: 2026
   conference:
-    name: "ECCV 2026 Workshop on Explainable and Safe Autonomous Driving (DriveX)"
+    name: "DriveX 2026: Foundation Models for Autonomous Driving (ECCV 2026 Workshop)"

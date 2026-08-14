@@ -2,7 +2,7 @@
 
 **When Doing Nothing Wins: Motion Regime Imbalance in In-Cabin Driver Pose Forecasting**  
 Likith Prabhu — Mercedes-Benz Research and Development India  
-*ECCV 2026 Workshop on Explainable and Safe Autonomous Driving (DriveX)*
+*DriveX 2026: Foundation Models for Autonomous Driving (ECCV 2026 Workshop)*
 
 ---
 
@@ -60,7 +60,7 @@ python evaluate.py --checkpoint outputs/rawm_v6/seed42/best.pt
 @inproceedings{prabhu2026rawm,
   title     = {When Doing Nothing Wins: Motion Regime Imbalance in In-Cabin Driver Pose Forecasting},
   author    = {Prabhu, Likith},
-  booktitle = {ECCV 2026 Workshop on Explainable and Safe Autonomous Driving (DriveX)},
+  booktitle = {DriveX 2026: Foundation Models for Autonomous Driving, ECCV Workshop},
   year      = {2026}
 }
 ```
