@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or the VDS diagnostic in your work, please cite:"
+title: "When Doing Nothing Wins: Motion Regime Imbalance in In-Cabin Driver Pose Forecasting"
+authors:
+  - family-names: Prabhu
+    given-names: Likith
+    affiliation: "Mercedes-Benz Research and Development India"
+year: 2026
+venue: "ECAI 2026 Workshop on Explainable and Safe Autonomous Driving (DriveX)"
+url: "https://github.com/likithp82/RaWM"
+preferred-citation:
+  type: conference-paper
+  title: "When Doing Nothing Wins: Motion Regime Imbalance in In-Cabin Driver Pose Forecasting"
+  authors:
+    - family-names: Prabhu
+      given-names: Likith
+  year: 2026
+  conference:
+    name: "ECAI 2026 Workshop on Explainable and Safe Autonomous Driving (DriveX)"
